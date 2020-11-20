@@ -12,7 +12,7 @@ const CardList = ({ robots }) => {
                             id={id}
                             name={name}
                             email={email}
-                        />)
+                        />);
                 }
                 )
             }
